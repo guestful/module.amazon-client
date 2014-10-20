@@ -1,4 +1,5 @@
-=== Guestful :: Module :: Amazon AWS Client ===
+Guestful :: Module :: Amazon AWS Client
+======================================= 
 
 And in your POM:
 
