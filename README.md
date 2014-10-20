@@ -10,4 +10,4 @@ And in your POM:
 </dependency>
 ```
 
-Checkout last version [here](https://bintray.com/guestful/maven/guestful.module.amazon-client/view/files/com/guestful/guestful.module.amazon-client)
+Checkout last version [here](https://bintray.com/guestful/maven/guestful.module.amazon-client/view)
