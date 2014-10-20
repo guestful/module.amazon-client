@@ -12,3 +12,5 @@ And in your POM:
 ```
 
 Checkout last version [here](https://bintray.com/guestful/maven/guestful.module.amazon-client/view)
+
+[![Build Status](https://drone.io/github.com/guestful/module.amazon-client/status.png)](https://drone.io/github.com/guestful/module.amazon-client/latest)
