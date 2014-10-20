@@ -32,10 +32,18 @@
     <packaging>jar</packaging>
     <name>Guestful :: Module :: Amazon AWS Client</name>
     <inceptionYear>2013</inceptionYear>
+    <url>https://github.com/guestful/${github.name}</url>
 
     <properties>
         <github.name>module.amazon-client</github.name>
     </properties>
+
+    <scm>
+        <connection>scm:git:git@github.com:guestful/${github.name}.git</connection>
+        <developerConnection>scm:git:git@github.com:guestful/${github.name}.git</developerConnection>
+        <url>https://github.com/guestful/${github.name}</url>
+        <tag>HEAD</tag>
+    </scm>
 
     <build>
         <plugins>
